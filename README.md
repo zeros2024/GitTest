@@ -1,3 +1,3 @@
 # GitTest
 nothing importent
-this repo is just for test like : <h1 Hello World />
+this repo is just for test like : <h2 Hello World /h2>
